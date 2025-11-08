@@ -13,7 +13,7 @@ const Footer = () => {
           <p className="text-xs text-white/60 mt-4">
             © {new Date().getFullYear()} Travel with Ameer. All rights reserved.
           </p>
-          <p className="text-xs text-white/60 mt-2">
+          <p className="text-sm text-white/70 mt-2">
             Crafted by{" "}
             <a 
               href="https://burhanitechsolutions.com" 
