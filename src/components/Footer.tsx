@@ -13,11 +13,11 @@ const Footer = () => {
 
           {/* Made With Love Section */}
           <div className="text-center md:text-right flex flex-col justify-center">
-            <p className="text-lg text-white/70 flex items-center justify-center md:justify-end gap-2 mb-4">
+            <p className="text-lg text-white/90 flex items-center justify-center md:justify-end gap-2 mb-4">
               Made with <Heart className="h-5 w-5 fill-secondary text-secondary" /> for travelers worldwide
             </p>
-            <p className="text-lg text-white/70">
-              Crafted by{" "}
+            <p className="text-lg text-white/90">
+              Developed by{" "}
               <a 
                 href="https://burhanitechsolutions.com" 
                 target="_blank" 
