@@ -16,7 +16,7 @@ const Footer = () => {
           <p className="text-xs text-white/60 mt-2">
             Crafted by{" "}
             <a 
-              href="http://burhanitechsolutions.com/" 
+              href="https://burhanitechsolutions.com" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-secondary hover:text-secondary/80 transition-colors underline"
