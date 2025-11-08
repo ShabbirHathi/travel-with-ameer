@@ -5,6 +5,10 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  // Base path is set dynamically by GitHub Actions workflow
+  // For local dev or manual deployment, you can hardcode it:
+  // base: '/travel-with-ameer/', // Project page
+  // base: '/', // User/organization page (username.github.io)
   base: process.env.VITE_BASE || "/",
   server: {
     host: "::",
