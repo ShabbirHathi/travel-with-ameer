@@ -19,12 +19,12 @@ const Footer = () => {
             <p className="text-lg text-white/90">
               Developed by{" "}
               <a 
-                href="https://burhanitechsolutions.com" 
+                href="https://shabbirhathi.github.io/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-secondary hover:text-secondary/80 transition-colors underline"
               >
-                Burhani Tech Solutions
+                Shabbir Hathi
               </a>
             </p>
           </div>
